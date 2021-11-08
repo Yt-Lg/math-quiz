@@ -1,0 +1,21 @@
+P:\Digital\VS\18Yat Leung\Math Quiz\Math Quiz\bin\Debug\Math Quiz.exe.config
+P:\Digital\VS\18Yat Leung\Math Quiz\Math Quiz\bin\Debug\Math Quiz.exe
+P:\Digital\VS\18Yat Leung\Math Quiz\Math Quiz\bin\Debug\Math Quiz.pdb
+P:\Digital\VS\18Yat Leung\Math Quiz\Math Quiz\obj\Debug\Math Quiz.csprojAssemblyReference.cache
+P:\Digital\VS\18Yat Leung\Math Quiz\Math Quiz\obj\Debug\Math Quiz.csproj.CoreCompileInputs.cache
+P:\Digital\VS\18Yat Leung\Math Quiz\Math Quiz\obj\Debug\Math Quiz.exe
+P:\Digital\VS\18Yat Leung\Math Quiz\Math Quiz\obj\Debug\Math Quiz.pdb
+C:\Users\yokin\Downloads\New folder (3)\math-quiz-main\Math Quiz\Math Quiz\bin\Debug\Math Quiz.exe.config
+C:\Users\yokin\Downloads\New folder (3)\math-quiz-main\Math Quiz\Math Quiz\bin\Debug\Math Quiz.exe
+C:\Users\yokin\Downloads\New folder (3)\math-quiz-main\Math Quiz\Math Quiz\bin\Debug\Math Quiz.pdb
+C:\Users\yokin\Downloads\New folder (3)\math-quiz-main\Math Quiz\Math Quiz\obj\Debug\Math Quiz.csproj.AssemblyReference.cache
+C:\Users\yokin\Downloads\New folder (3)\math-quiz-main\Math Quiz\Math Quiz\obj\Debug\Math Quiz.csproj.CoreCompileInputs.cache
+C:\Users\yokin\Downloads\New folder (3)\math-quiz-main\Math Quiz\Math Quiz\obj\Debug\Math Quiz.exe
+C:\Users\yokin\Downloads\New folder (3)\math-quiz-main\Math Quiz\Math Quiz\obj\Debug\Math Quiz.pdb
+C:\Users\yokin\Downloads\Mathquiz\Math Quiz\Math Quiz\obj\Debug\Math Quiz.csproj.AssemblyReference.cache
+C:\Users\yokin\Downloads\Mathquiz\Math Quiz\Math Quiz\obj\Debug\Math Quiz.csproj.CoreCompileInputs.cache
+C:\Users\yokin\Downloads\Mathquiz\Math Quiz\Math Quiz\obj\Debug\Math Quiz.exe
+C:\Users\yokin\Downloads\Mathquiz\Math Quiz\Math Quiz\obj\Debug\Math Quiz.pdb
+C:\Users\yokin\Downloads\Mathquiz\Math Quiz\Math Quiz\bin\Debug\Math Quiz.exe.config
+C:\Users\yokin\Downloads\Mathquiz\Math Quiz\Math Quiz\bin\Debug\Math Quiz.exe
+C:\Users\yokin\Downloads\Mathquiz\Math Quiz\Math Quiz\bin\Debug\Math Quiz.pdb
